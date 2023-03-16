@@ -9,3 +9,9 @@ https://github.com/mefengl/wereadhelper , a script to simplify weread reading pa
 [](/CoZE/)
 
 a tool to do "Comfort Zone Exploration"
+
+## LaaC
+
+[](/LaaC/)
+
+"life as a code"
